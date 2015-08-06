@@ -1,0 +1,26 @@
+{
+  "name": "verification-box",
+  "version": "0.0.0",
+  "authors": [
+    "Carlos Bellotti <Carlos Bellotti>"
+  ],
+  "description": "Cuadro de Verificacion de Script",
+  "main": "public/index.html",
+  "keywords": [
+    "verification",
+    "box"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "backbone": "~1.2.1"
+  }
+}
